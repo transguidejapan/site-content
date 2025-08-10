@@ -9,7 +9,9 @@ tags:
   - tokyo
   - tag
 ---
+![[test-banner.jpg]]
 
+# Welcome.
 
 Body text for your whole article or post. We’ll put in some lorem ipsum to show how a filled-out page might look:
 

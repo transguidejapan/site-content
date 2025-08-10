@@ -1,9 +1,9 @@
 ---
+title: New article
 type: doc
+date: 2025-08-10 17:29
 tags:
   - resource
-date: 2025-08-10 17:29
-title: New article
 ---
 An h1 header
 ============

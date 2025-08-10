@@ -10,7 +10,8 @@ await tp.app.fileManager.processFrontMatter(this_file, (frontmatter) => {
   frontmatter["title"] = title;
 });
 
-await tp.file.rename(tp.user.to_slug(title) + "." + lang);
+let suffix = lang !== "en" ? "." + lang : ""
+await tp.file.rename(tp.user.to_slug(title) + suffix);
 
 tp.app.workspace.activeLeaf.view.editor?.focus();
 _%>

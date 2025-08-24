@@ -1,5 +1,5 @@
 ---
-type: doc
+type: docs
 tags: ["resource"]
 ---
 

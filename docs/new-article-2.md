@@ -1,6 +1,6 @@
 ---
 title: New article 2
-type: doc
+type: docs
 description: From laser to electrolysis to straight up waxing, they have it all, and they’re LGBTQ-friendly.
 tags:
   - healthcare

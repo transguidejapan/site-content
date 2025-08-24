@@ -1,6 +1,6 @@
 ---
 title: New article
-type: doc
+type: docs
 date: 2025-08-10 17:29
 tags:
   - resource

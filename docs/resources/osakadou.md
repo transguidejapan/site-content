@@ -3,29 +3,11 @@ Author: Juniper
 Title: osakadou
 Category:
   - Medical
-Location:
+Area:
   - All Japan
-tags:
+Tags:
   - HRT
-Support Rating: 1
-Website: https://osakadou.cool/
+Website (JP): https://osakadou.cool/
 Verification Date: 2025-02-09
 Verified: true
 ---
-### Location
-
-Offers
-
-### Phone Number
-
-  
-
-### English Site
-
-  
-
-### Japanese Site
-
-  
-
-### Map

@@ -5,29 +5,12 @@ Category:
   - Medical
 Location:
   - Tokyo/Yokohama
-tags:
+Tags:
   - Blood-Testing
   - HRT
   - Mental-Health
-Support Rating: 4
-Website: https://www.harimamental.com/
+Website (JP): https://www.harimamental.com/
 Verification Date: 2025-02-09
 Verified: true
 ---
-### Location
-
-Offers
-
-### Phone Number
-
-  
-
-### English Site
-
-  
-
-### Japanese Site
-
-  
-
-### Map
+<!-- TODO: Write description -->

@@ -3,28 +3,12 @@ Author: Juniper
 Title: Mental Health Professionals Database
 Category:
   - Medical
-Location:
+Area:
   - Tokyo/Yokohama
-tags:
+Tags:
   - Mental-Health
   - General
-Website: https://www.imhpj.org/
+Website (JP): https://www.imhpj.org/
 Verified: false
 ---
-### Location
-
-Offers
-
-### Phone Number
-
-  
-
-### English Site
-
-  
-
-### Japanese Site
-
-  
-
-### Map
+<!-- TODO: Write description -->

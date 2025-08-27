@@ -1,32 +1,18 @@
 ---
 Author: Juniper
 Title: Mishima You Ladies Clinic
+Description: Clinic offering laser hair removal and other beauty products.
 Category:
   - Hair Removal
-Location:
+Area:
   - Tokyo/Yokohama
-tags:
+Location: Mishima, Shizuoka
+Tags:
   - Laser-Hair-Removal
-Support Rating: 2
-Website: https://www.mishima-you-lc.jp/
+Phone: 0120-747-547
+Website (JP): https://www.mishima-you-lc.jp/
+Map: https://maps.app.goo.gl/w9kqeRJgpZDHGxGv9
 Verified: true
+Verification Date: 2018
 ---
-### Location: Mishima, Shizuoka
-
 Clinic offering laser hair removal and other beauty products. Has accommodated trans clients in the past.
-
-### Phone Number: 0120-747-547
-
-### English Site
-
-None
-
-### Japanese Site
-
-[https://www.mishima-you-lc.jp/](https://www.mishima-you-lc.jp/)
-
-### Map
-
-[https://maps.app.goo.gl/w9kqeRJgpZDHGxGv9](https://maps.app.goo.gl/w9kqeRJgpZDHGxGv9)
-
-Last Verified: 2018

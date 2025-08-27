@@ -5,30 +5,14 @@ Category:
   - Medical
 Location:
   - Tokyo/Yokohama
-tags:
+Tags:
   - Blood-Testing
   - HRT
-Support Rating: 4
 Additional Languages:
   - EN
-Website: https://ebisutgclinic.com/
-Verification Date: 2025-02-09
+Website (JP): https://ebisutgclinic.com/
+Website (EN): https://ebisutgclinic.com/english
 Verified: true
+Verification Date: 2025-02-09
 ---
-### Location
-
-Offers
-
-### Phone Number
-
-  
-
-### English Site
-
-  
-
-### Japanese Site
-
-  
-
-### Map
+Clinic offering HRT (injections) and mastectomy, the doctor speaks English and all appointment booking is done conveniently online.

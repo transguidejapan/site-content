@@ -5,25 +5,9 @@ Category:
   - Medical
 Location:
   - Tokyo/Yokohama
-tags:
+Tags:
   - Mental-Health
-Website: http://www.mejiro-sola.com/
+Website (JP): http://www.mejiro-sola.com/
 Verified: true
 ---
-### Location
-
-Offers
-
-### Phone Number
-
-  
-
-### English Site
-
-  
-
-### Japanese Site
-
-  
-
-### Map
+<!-- TODO: Write description -->

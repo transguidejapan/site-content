@@ -1,57 +1,19 @@
 ---
 Author: Juniper
-Title: SALON RON
+Title: Datsumo SALON RON
 Description: Clinic offering electrolysis hair removal.
 Category:
   - Hair Removal
-Location:
+Area:
   - Tokyo/Yokohama
-tags:
+Location:
+  - Shinjuku, Tokyo
+Tags:
   - Electrolysis-Hair-Removal
-Support Rating: 1
-Website: https://datsumo.salon/
+Phone: 03-6273-0812
+Website (JP): https://datsumo.salon/
+Map: https://maps.app.goo.gl/daZPffVZ8hEurVCF9
 Verified: true
+Verification Date: 2024
 ---
-# Datsumo SALON RON (Men's / Women's)
-
-### Location: Shinjuku, Tokyo
-
 Clinic offering electrolysis hair removal **only**. Caters to men, may or may not accommodate trans/non-binary clients. Jointly operated with [[SALON RON woman]] Open 24 hours.
-
-### Phone Number: 03-6273-0812
-
-### English Site
-
-None
-
-### Japanese Site
-
-[https://datsumo.salon/](https://datsumo.salon/)
-
-### Map
-
-[https://maps.app.goo.gl/daZPffVZ8hEurVCF9](https://maps.app.goo.gl/daZPffVZ8hEurVCF9)
-
-Last Verified: 2024
-
-# SALON RON woman
-
-### Location: Shinjuku, Tokyo
-
-Clinic offering electrolysis hair removal **only**. Caters to men, may or may not accommodate trans/non-binary clients. Jointly operated with [[SALON RON woman]] Open 24 hours.
-
-### Phone Number: 03-6273-0812
-
-### English Site
-
-None
-
-### Japanese Site
-
-[https://datsumo.salon/](https://datsumo.salon/)
-
-### Map
-
-[https://maps.app.goo.gl/daZPffVZ8hEurVCF9](https://maps.app.goo.gl/daZPffVZ8hEurVCF9)
-
-Last Verified: 2024

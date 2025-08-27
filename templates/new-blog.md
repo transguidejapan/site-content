@@ -1,6 +1,6 @@
 ---
-type: blog
-tags: ["blog"]
+Tags:
+  - Article
 ---
 
 <%* tp.file.include("[[base-post]]") _%>

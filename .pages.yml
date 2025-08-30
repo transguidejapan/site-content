@@ -94,6 +94,7 @@ content:
           - name: site
             label: Website
             type: object
+            required: false
             fields:
               - name: url
                 label: URL

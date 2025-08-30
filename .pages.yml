@@ -22,8 +22,8 @@ content:
         label: Category
         type: select
         options:
-          multiple: false
-          creatable: false
+          multiple: true
+          creatable: true
           values: 
             - value: beauty
               label: Beauty

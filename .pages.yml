@@ -94,12 +94,10 @@ content:
           - name: site
             label: Website
             type: object
-            required: false
             fields:
               - name: url
                 label: URL
                 type: string
-                required: true
               - name: lang
                 label: Language
                 type: select

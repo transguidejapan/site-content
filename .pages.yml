@@ -1,0 +1,118 @@
+media:
+  input: static/images
+  output: public
+content:
+  - name: resources
+    label: Resources
+    path: content/docs/resources
+    type: collection
+    fields:
+      - name: author
+        label: Author
+        type: string
+        required: true
+      - name: title
+        label: Title
+        type: string
+        required: true
+      - name: description
+        label: Description
+        type: text
+      - name: category
+        label: Category
+        type: select
+        options:
+          multiple: false
+          creatable: false
+          values: 
+            - value: beauty
+              label: Beauty
+            - value: medical
+              label: Medical
+            - value: mental
+              label: Mental Health
+            - value: social
+              label: Social
+            - value: other
+              label: Other
+      - name: region
+        label: Region
+        type: select
+        required: true
+        options:
+          creatable: true
+          multiple: true
+          values: 
+            - value: kanto
+              label: Kantō
+            - value: kansai
+              label: Kansai
+            - value: kyushu
+              label: Kyūshū
+            - value: hokkaido
+              label: Hokkaidō
+            - value: tohoku
+              label: Tōhoku
+            - value: chubu
+              label: Chūbu
+            - value: chugoku
+              label: Chūgoku
+            - value: shikoku
+              label: Shikoku
+            - value: okinawa
+              label: Okinawa
+      - name: location
+        label: Location
+        type: string
+        required: true
+      - name: tags
+        label: Tags
+        type: select
+        options:
+          creatable: true
+          multiple: true
+          values: [ Hair Removal, Electrolysis, Laser, IPL, HRT, Surgical, Counseling, Psychiatric, General ]
+      - name: lang
+        label: Languages Supported
+        type: select
+        options:
+          creatable: true
+          multiple: true
+          values: # TODO: Add support for all ISO codes
+            - value: en
+              label: English
+            - value: ja
+              label: 日本語
+            - value: zh
+              label: Chinese
+            - value: kr
+              label: Korean
+      - name: site
+        label: Website
+        type: object
+        fields:
+          - name: url
+            label: URL
+            type: string
+          - name: lang
+            label: Language
+            type: select
+            options:
+              values:
+                - value: en
+                  label: English
+                - value: ja
+                  label: 日本語
+                - value: zh
+                  label: Chinese
+                - value: kr
+                  label: Korean
+      - name: map
+        label: Map
+        type: string
+      - name: body
+        label: Page Content
+        type: rich-text
+        options:
+          path: static/images
+        required: true

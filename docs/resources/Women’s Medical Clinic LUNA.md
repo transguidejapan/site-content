@@ -8,7 +8,7 @@ category:
   - Medical
 region:
   - kanto
-location: Motomachi\, Yokohama
+location: Motomachi, Yokohama
 tags:
   - Blood-Testing
   - HRT

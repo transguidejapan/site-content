@@ -63,7 +63,7 @@ content:
               label: Okinawa
       - name: location
         label: Location
-        type: string
+        type: text
         required: true
       - name: tags
         label: Tags

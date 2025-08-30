@@ -1,16 +1,19 @@
 ---
-Author: Juniper
-Title: GID Jiyugaoka
-Category:
-  - Hair Removal
+author: Juniper
+title: GID Jiyugaoka
+category:
+  - beauty
   - Medical
-Location:
-  - Tokyo/Yokohama
-Tags:
+location:
+  - kanto
+tags:
   - HRT
   - Laser-Hair-Removal
-Website (JP): https://www.gid-mcclinic.com/
-Verification Date: 2025-02-09
-Verified: true
+access:
+  site:
+    - url: https://www.gid-mcclinic.com/
+      lang: ja
+verified_date: 2025-02-09
+verified: true
 ---
 <!-- TODO: Write description -->

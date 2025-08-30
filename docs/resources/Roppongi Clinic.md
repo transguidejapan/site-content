@@ -1,21 +1,25 @@
 ---
-Author: Juniper
-Title: Roppongi Clinic
-Description: Offers mental health counseling as well as diagnosis for ADHD/Autism.
-Category:
+author: Juniper
+title: Roppongi Clinic
+description: Offers mental health counseling as well as diagnosis for ADHD/Autism.
+category:
   - Medical
-Area:
-  - Tokyo/Yokohama
-Location:
+region:
+  - kanto
+location:
   - Roppongi, Tokyo
-Tags:
+tags:
   - Mental-Health
-Additional Languages:
-  - EN
-Website (JP): https://www.roppongi-clinic.jp/
-Website (EN): https://www.roppongi-clinic.jp/english-page/
-Verification Date: 2025-02-07
-Verified: true
+lang:
+  - en
+access:
+  site:
+    - url: https://www.roppongi-clinic.jp/english-page/
+      lang: en
+    - url: https://www.roppongi-clinic.jp/
+      lang: ja
+verified_date: 2025-02-07
+verified: true
 ---
 Offers mental health counseling as well as diagnosis for ADHD/Autism.
 

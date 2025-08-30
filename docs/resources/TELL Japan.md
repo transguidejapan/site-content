@@ -1,16 +1,19 @@
 ---
-Author: Juniper
-Title: TELL Japan
-Category:
+author: Juniper
+title: TELL Japan
+category:
   - Medical
-Area:
+region:
   - All Japan
-  - Tokyo/Yokohama
-Tags:
+  - kanto
+tags:
   - Mental-Health
-Additional Languages:
-  - EN
-Website (EN): https://telljp.com/
-Verified: true
+lang:
+  - en
+access:
+  site:
+    - url: https://telljp.com/
+      lang: en
+verified: true
 ---
 Offers mental health services such as counseling, as well as operating a crisis hotline. Hotline operators may or may not be educated on LGBTQ issues, but do speak English, Japanese, and various other languages.

@@ -1,22 +1,26 @@
 ---
-Author: Juniper
-Title: Azabu Skin Clinic
-Description: Clinic offering a variety of services, such as HRT, laser hair removal, breast augmentation, and cosmetic surgery.
-Category:
-  - Hair Removal
-Area:
-  - Tokyo/Yokohama
-Location: Minami Azabu, Tokyo
-Tags:
+author: Juniper
+title: Azabu Skin Clinic
+description: Clinic offering a variety of services, such as HRT, laser hair removal, breast augmentation, and cosmetic surgery.
+category:
+  - beauty
+region:
+  - kanto
+location: Minami Azabu, Tokyo
+tags:
   - Laser-Hair-Removal
-Additional Languages:
-  - EN
-Verified: true
-Verification Date: 2024
-Phone: 0120-005-327
-Website (JP): https://www.azabu-skinclinic.com/camp/
-Website (EN): http://www.azabu-skinclinic.com/camp/en/index_e.html
-Map: https://maps.app.goo.gl/2NKrHGHgTEyCkAaq8
+lang:
+  - en
+verified: true
+verified_date: 2024
+access:
+  phone: 0120-005-327
+  site:
+    - url: https://www.azabu-skinclinic.com/camp/
+      lang: ja
+    - url: http://www.azabu-skinclinic.com/camp/en/index_e.html
+      lang: en
+  map: https://maps.app.goo.gl/2NKrHGHgTEyCkAaq8
 ---
 Clinic offering a variety of services, such as HRT, laser hair removal, breast augmentation, and cosmetic surgery. Clinic seems to support English speakers, but this is not confirmed.
 

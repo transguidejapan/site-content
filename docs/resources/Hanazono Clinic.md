@@ -1,14 +1,17 @@
 ---
-Author: CJ
-Title: Hanazono Clinic
-Category:
+author: CJ
+title: Hanazono Clinic
+category:
   - Medical
-Area:
-  - Tokyo/Yokohama
-Tags:
+region:
+  - kanto
+tags:
   - HRT
-Website (JP): https://www.hanazono-c.com/
-Verified: false
-Draft: true
+access:
+  site:
+    - url: https://www.hanazono-c.com/
+      lang: ja
+verified: false
+draft: true
 ---
 <!-- TODO: Verify -->

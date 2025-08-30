@@ -1,16 +1,19 @@
 ---
-Author: Juniper
-Title: Harima Mental
-Category:
+author: Juniper
+title: Harima Mental
+category:
   - Medical
-Location:
-  - Tokyo/Yokohama
-Tags:
+location:
+  - kanto
+tags:
   - Blood-Testing
   - HRT
   - Mental-Health
-Website (JP): https://www.harimamental.com/
-Verification Date: 2025-02-09
-Verified: true
+access:
+  site:
+    - url: https://www.harimamental.com/
+      lang: ja
+verified_date: 2025-02-09
+verified: true
 ---
 <!-- TODO: Write description -->

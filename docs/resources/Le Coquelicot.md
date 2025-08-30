@@ -1,20 +1,24 @@
 ---
-Author: Juniper
-Title: Le Coquelicot
-Description: Clinic offering laser hair removal and other beauty products.
-Category:
-  - Hair Removal
-Area:
-  - Tokyo/Yokohama
-Location: Ginza, Tokyo
-Tags:
+author: Juniper
+title: Le Coquelicot
+description: Clinic offering laser hair removal and other beauty products.
+category:
+  - beauty
+region:
+  - kanto
+location: Ginza, Tokyo
+tags:
   - Laser-Hair-Removal
-Additional Languages:
-  - EN
-Website (EN): https://www.coquelicot.co.jp/?lang=en
-Website (JP): https://www.coquelicot.co.jp/
-Map: https://maps.app.goo.gl/qYqqoX5Vj2japkxNA
-Verified: true
-Verification Date: 2024
+lang:
+  - en
+access:
+  site:
+    - url: https://www.coquelicot.co.jp/?lang=en
+      lang: en
+    - url: https://www.coquelicot.co.jp/
+      lang: ja
+  map: https://maps.app.goo.gl/qYqqoX5Vj2japkxNA
+verified: true
+verified_date: 2024
 ---
 Clinic offering laser hair removal and other beauty products. Website supports English, but English staff is unconfirmed.

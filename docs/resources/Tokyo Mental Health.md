@@ -1,14 +1,17 @@
 ---
-Author: Juniper
-Title: Tokyo Mental Health
-Category:
+author: Juniper
+title: Tokyo Mental Health
+category:
   - Medical
-Area:
-  - Tokyo/Yokohama
-Tags:
+region:
+  - kanto
+tags:
   - Mental-Health
-Additional Languages:
-  - EN
-Website (EN): https://www.tokyomentalhealth.com/
-Verified: false
+lang:
+  - en
+access:
+  site:
+    - url: https://www.tokyomentalhealth.com/
+      lang: en
+verified: false
 ---

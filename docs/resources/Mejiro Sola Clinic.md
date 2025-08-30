@@ -1,13 +1,16 @@
 ---
-Author: Juniper
-Title: Mejiro Sola Clinic
-Category:
+author: Juniper
+title: Mejiro Sola Clinic
+category:
   - Medical
-Location:
-  - Tokyo/Yokohama
-Tags:
+location:
+  - kanto
+tags:
   - Mental-Health
-Website (JP): http://www.mejiro-sola.com/
-Verified: true
+access:
+  site:
+    - url: http://www.mejiro-sola.com/
+      lang: ja
+verified: true
 ---
 <!-- TODO: Write description -->

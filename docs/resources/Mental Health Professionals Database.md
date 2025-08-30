@@ -1,14 +1,17 @@
 ---
-Author: Juniper
-Title: Mental Health Professionals Database
-Category:
+author: Juniper
+title: Mental Health Professionals Database
+category:
   - Medical
-Area:
-  - Tokyo/Yokohama
-Tags:
+region:
+  - kanto
+tags:
   - Mental-Health
   - General
-Website (JP): https://www.imhpj.org/
-Verified: false
+access:
+  site:
+    - url: https://www.imhpj.org/
+      lang: jp
+verified: false
 ---
 <!-- TODO: Write description -->

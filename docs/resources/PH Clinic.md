@@ -1,16 +1,19 @@
 ---
-Author: Juniper
-Title: PH Clinic
-Category:
+author: Juniper
+title: PH Clinic
+category:
   - Medical
-Area:
-  - Tokyo/Yokohama
-Location:
+region:
+  - kanto
+location:
   - Yushima, Tokyo
-Tags:
+tags:
   - Blood-Testing
   - HRT
-Website (JP): https://ph-clinic.org/
-Verification Date: 2025-01-20
-Verified: true
+access:
+  site:
+    - url: https://ph-clinic.org/
+      lang: ja
+verified_date: 2025-01-20
+verified: true
 ---

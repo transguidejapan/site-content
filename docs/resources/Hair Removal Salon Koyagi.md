@@ -1,17 +1,20 @@
 ---
-Author: Juniper
-Title: Hair Removal Salon Koyagi
-Description: Clinic offering IPL and SHR hair removal (not laser).
-Category:
-  - Hair Removal
-Area:
-  - Tokyo/Yokohama
-Location: Shinjuku, Tokyo
-Tags:
+author: Juniper
+title: beauty Salon Koyagi
+description: Clinic offering IPL and SHR hair removal (not laser).
+category:
+  - beauty
+region:
+  - kanto
+location: Shinjuku, Tokyo
+tags:
   - IPL-Hair-Removal
-Website (JP): https://www.salon.koyagi.net/
-Map: https://maps.app.goo.gl/yzMFJCPeuFE1D4ng8
-Verification Date: 2025-02-08
-Verified: true
+access:
+  site:
+    - url: https://www.salon.koyagi.net/
+      lang: ja
+  map: https://maps.app.goo.gl/yzMFJCPeuFE1D4ng8
+verified_date: 2025-02-08
+verified: true
 ---
 Clinic offering IPL and SHR hair removal (not medical laser). It is a gender-free salon run out of an apartment, with the technician being X-gender themselves. Speaks limited English but will accommodate using translation apps.

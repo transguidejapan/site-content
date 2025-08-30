@@ -1,13 +1,16 @@
 ---
-Author: Juniper
-Title: osakadou
-Category:
+author: Juniper
+title: osakadou
+category:
   - Medical
-Area:
+region:
   - All Japan
-Tags:
+tags:
   - HRT
-Website (JP): https://osakadou.cool/
-Verification Date: 2025-02-09
-Verified: true
+access:
+  site:
+    - url: https://osakadou.cool/
+      lang: ja
+verified_date: 2025-02-09
+verified: true
 ---

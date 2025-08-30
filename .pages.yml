@@ -87,29 +87,36 @@ content:
               label: Chinese
             - value: kr
               label: Korean
-      - name: site
-        label: Website
+      - name: access
+        label: Access
         type: object
         fields:
-          - name: url
-            label: URL
+          - name: site
+            label: Website
+            type: object
+            fields:
+              - name: url
+                label: URL
+                type: string
+              - name: lang
+                label: Language
+                type: select
+                options:
+                  values:
+                    - value: en
+                      label: English
+                    - value: ja
+                      label: 日本語
+                    - value: zh
+                      label: Chinese
+                    - value: kr
+                      label: Korean
+          - name: map
+            label: Map
             type: string
-          - name: lang
-            label: Language
-            type: select
-            options:
-              values:
-                - value: en
-                  label: English
-                - value: ja
-                  label: 日本語
-                - value: zh
-                  label: Chinese
-                - value: kr
-                  label: Korean
-      - name: map
-        label: Map
-        type: string
+          - name: phone
+            label: Phone
+            type: string
       - name: body
         label: Page Content
         type: rich-text

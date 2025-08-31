@@ -4,7 +4,7 @@ media:
 content:
   - name: guides
     label: Guides
-    path: blog
+    path: blog/posts
     type: collection
     fields:
       - name: author

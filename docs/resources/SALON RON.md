@@ -1,7 +1,7 @@
 ---
 author: Juniper
 title: Datsumo SALON RON
-description: Clinic offering electrolysis hair removal.
+summary: Clinic offering electrolysis hair removal.
 category:
   - beauty
 region:

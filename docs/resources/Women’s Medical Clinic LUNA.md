@@ -1,7 +1,7 @@
 ---
 author: Juniper
 title: Women's Medical Clinic LUNA
-description: Clinic offering a variety of services, such as HRT, laser hair
+summary: Clinic offering a variety of services, such as HRT, laser hair
   removal, and cosmetic surgery.
 category:
   - beauty

@@ -1,7 +1,7 @@
 ---
 author: Juniper
 title: beauty Salon Koyagi
-description: Clinic offering IPL and SHR hair removal (not laser).
+summary: Clinic offering IPL and SHR hair removal (not laser).
 category:
   - beauty
 region:

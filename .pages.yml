@@ -2,6 +2,39 @@ media:
   input: static/images
   output: public
 content:
+  - name: guides
+    label: Guides
+    path: blog
+    type: collection
+    fields:
+      - name: author
+        label: Author
+        type: string
+        required: true
+      - name: published
+        label: Published
+        type: date
+        options: dd-MM-yyyy
+      - name: title
+        label: Title
+        type: string
+        required: true
+      - name: summary
+        label: Description
+        type: text
+      - name: tags
+        label: Tags
+        type: select
+        options:
+          creatable: true
+          multiple: true
+          values: [ Guide, Review, Experience, News ]
+      - name: body
+        label: Page Content
+        type: rich-text
+        options:
+          path: static/images
+        required: true
   - name: resources
     label: Resources
     path: docs/resources
@@ -15,7 +48,7 @@ content:
         label: Title
         type: string
         required: true
-      - name: description
+      - name: summary
         label: Description
         type: text
       - name: category

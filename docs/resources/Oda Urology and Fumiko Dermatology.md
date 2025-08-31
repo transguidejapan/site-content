@@ -1,7 +1,7 @@
 ---
 author: Juniper
 title: Oda Urology and Fumiko Dermatology
-description: Clinic offering laser hair removal and other beauty products.
+summary: Clinic offering laser hair removal and other beauty products.
 category:
   - beauty
 region:

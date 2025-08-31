@@ -1,7 +1,7 @@
 ---
 author: Juniper
 title: Le Coquelicot
-description: Clinic offering laser hair removal and other beauty products.
+summary: Clinic offering laser hair removal and other beauty products.
 category:
   - beauty
 region:

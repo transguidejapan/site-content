@@ -1,7 +1,7 @@
 ---
 author: Juniper
 title: Roppongi Clinic
-description: Offers mental health counseling as well as diagnosis for ADHD/Autism.
+summary: Offers mental health counseling as well as diagnosis for ADHD/Autism.
 category:
   - Medical
 region:

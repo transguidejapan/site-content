@@ -1,7 +1,7 @@
 ---
 author: Juniper
 title: Azabu Skin Clinic
-description: Clinic offering a variety of services, such as HRT, laser hair removal, breast augmentation, and cosmetic surgery.
+summary: Clinic offering a variety of services, such as HRT, laser hair removal, breast augmentation, and cosmetic surgery.
 category:
   - beauty
 region:

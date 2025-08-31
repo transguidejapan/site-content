@@ -1,7 +1,7 @@
 ---
 author: Juniper
 title: Ginza Laser Clinic
-description: Clinic offering laser hair removal and other beauty services. Their website appears to have clinic offerings for both men and women.
+summary: Clinic offering laser hair removal and other beauty services. Their website appears to have clinic offerings for both men and women.
 category:
   - beauty
 region:

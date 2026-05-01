@@ -1,0 +1,142 @@
+media:
+  input: images
+  output: /images
+
+settings:
+  content:
+    merge: true
+  commit:
+    identity: app
+    templates:
+      create: 'content(create): {path}'
+      update: 'content(update): {path}'
+      delete: 'content(delete): {path}'
+      rename: 'content(rename): {oldPath} -> {newPath}'
+
+actions:
+  - name: submit-for-review
+    label: Submit for review
+    workflow: submit-for-review.yml
+    ref: current
+    cancelable: false
+    confirm:
+      title: Submit edits for review?
+      message: This will open or update a pull request from edits into main.
+      button: Submit
+
+content:
+  - name: resources
+    label: Resources
+    type: collection
+    path: docs/resources
+    view:
+      primary: Title
+      fields: [Category, Area, Verified, Draft]
+      sort: Title
+      order: asc
+    fields:
+      - name: Author
+        label: Author
+        type: string
+        required: true
+      - name: Title
+        label: Title
+        type: string
+        required: true
+      - name: Description
+        label: Description
+        type: text
+      - name: Category
+        label: Category
+        type: select
+        options:
+          multiple: true
+          creatable: true
+          values:
+            - Hair Removal
+            - Medical
+            - Mental Health
+            - Legal
+            - Community
+            - Other
+      - name: Area
+        label: Area
+        type: select
+        options:
+          multiple: true
+          creatable: true
+          values:
+            - All Japan
+            - Tokyo/Yokohama
+            - Kansai
+            - Shikoku
+            - Kyushu
+            - Hokkaido
+            - Tohoku
+            - Chubu
+            - Chugoku
+            - Okinawa
+      - name: Location
+        label: Location
+        type: select
+        options:
+          multiple: true
+          creatable: true
+          values:
+            - Ginza, Tokyo
+            - Minami Azabu, Tokyo
+            - Mishima, Shizuoka
+            - Motomachi, Yokohama
+            - Roppongi, Tokyo
+            - Shinjuku, Tokyo
+            - Yushima, Tokyo
+      - name: Tags
+        label: Tags
+        type: select
+        options:
+          multiple: true
+          creatable: true
+          values:
+            - Blood-Testing
+            - Electrolysis-Hair-Removal
+            - General
+            - HRT
+            - IPL-Hair-Removal
+            - Laser-Hair-Removal
+            - Mental-Health
+      - name: Additional Languages
+        label: Additional Languages
+        type: select
+        options:
+          multiple: true
+          creatable: true
+          values:
+            - EN
+            - JA
+            - ZH
+            - KO
+      - name: Website (EN)
+        label: Website (English)
+        type: string
+      - name: Website (JP)
+        label: Website (Japanese)
+        type: string
+      - name: Map
+        label: Map
+        type: string
+      - name: Phone
+        label: Phone
+        type: string
+      - name: Verified
+        label: Verified
+        type: boolean
+      - name: Verification Date
+        label: Verification Date
+        type: string
+      - name: Draft
+        label: Draft
+        type: boolean
+      - name: body
+        label: Body
+        type: rich-text
+        required: true

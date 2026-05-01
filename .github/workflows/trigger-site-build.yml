@@ -1,0 +1,24 @@
+name: Trigger site build
+
+on:
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: read
+
+jobs:
+  trigger:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Trigger transguide.jp deploy
+        env:
+          GH_TOKEN: ${{ secrets.SITE_DISPATCH_TOKEN }}
+        run: |
+          set -euo pipefail
+
+          gh api repos/transguidejapan/transguide.jp/dispatches \
+            --method POST \
+            -f event_type=site-content-updated \
+            -f client_payload[site_content_sha]="$GITHUB_SHA"

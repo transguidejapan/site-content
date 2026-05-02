@@ -1,4 +1,4 @@
-# site-content
+# content
 
 Content source repository for [transguide.jp](https://transguide.jp/).
 

@@ -1,4 +1,4 @@
-name: Submit drafts for review
+name: Submit content for review
 
 on:
   workflow_dispatch:
@@ -24,8 +24,8 @@ jobs:
 
           existing_pr="$(gh pr list \
             --repo "$GITHUB_REPOSITORY" \
-            --base main \
-            --head drafts \
+            --base live \
+            --head main \
             --state open \
             --json number \
             --jq '.[0].number // empty')"
@@ -37,7 +37,7 @@ jobs:
 
           gh pr create \
             --repo "$GITHUB_REPOSITORY" \
-            --base main \
-            --head drafts \
-            --title "Review content drafts" \
-            --body "Pages CMS drafts are ready for review. Merge this PR to publish approved content changes."
+            --base live \
+            --head main \
+            --title "Review content changes" \
+            --body "Pages CMS edits from main are ready for review. Merge this PR to publish approved content changes to live."

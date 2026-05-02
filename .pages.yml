@@ -20,8 +20,8 @@ actions:
     ref: current
     cancelable: false
     confirm:
-      title: Submit edits for review?
-      message: This will open or update a pull request from edits into main.
+      title: Submit drafts for review?
+      message: This will open or update a pull request from drafts into main.
       button: Submit
 
 content:

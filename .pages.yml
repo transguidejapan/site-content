@@ -30,7 +30,7 @@ content:
     type: collection
     path: docs/resources
     filename:
-      template: "{primary}.md"
+      template: '{primary}.md'
       field: true
     view:
       primary: Title

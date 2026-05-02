@@ -1,6 +1,6 @@
 ---
 date: "2025-03-02T17:42:41+09:00"
-draft: true
+draft: false
 title: Home
 type: default
 ---

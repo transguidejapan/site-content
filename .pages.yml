@@ -34,7 +34,7 @@ content:
       field: true
     view:
       primary: Title
-      fields: [Category, Area, Verified, Draft]
+      fields: [Title, Category, Area, Verified, Draft]
       sort: Title
       order: asc
     fields:

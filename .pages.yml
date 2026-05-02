@@ -29,6 +29,9 @@ content:
     label: Resources
     type: collection
     path: docs/resources
+    filename:
+      template: "{primary}.md"
+      field: true
     view:
       primary: Title
       fields: [Category, Area, Verified, Draft]

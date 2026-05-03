@@ -1,6 +1,6 @@
 ---
 cascade:
-  type: blog 
-linkTitle: Blog 
-title: Articles 
+    type: blog
+linkTitle: Blog
+title: Articles
 ---

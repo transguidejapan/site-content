@@ -1,15 +1,15 @@
 ---
 Author:
-Description: 
+Description:
 Category:
-  - 
+    -
 Area:
-  - 
+    -
 Tags:
 Phone:
-Website (JP):
+? Website (JP)
 Email:
 Verified:
 ---
 
-<%* tp.file.include("[[base-post]]") _%>
+<%\* tp.file.include("[[base-post]]") \_%>

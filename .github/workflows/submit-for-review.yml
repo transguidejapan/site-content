@@ -24,8 +24,8 @@ jobs:
 
           existing_pr="$(gh pr list \
             --repo "$GITHUB_REPOSITORY" \
-            --base live \
-            --head main \
+            --base main \
+            --head edit \
             --state open \
             --json number \
             --jq '.[0].number // empty')"
@@ -37,7 +37,7 @@ jobs:
 
           gh pr create \
             --repo "$GITHUB_REPOSITORY" \
-            --base live \
-            --head main \
+            --base main \
+            --head edit \
             --title "Review content changes" \
-            --body "Pages CMS edits from main are ready for review. Merge this PR to publish approved content changes to live."
+            --body "Pages CMS edits from edit are ready for review. Merge this PR to publish approved content changes to main."

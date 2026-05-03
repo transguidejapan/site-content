@@ -1,6 +1,6 @@
 ---
 Tags:
-  - Article
+    - Article
 ---
 
-<%* tp.file.include("[[base-post]]") _%>
+<%\* tp.file.include("[[base-post]]") \_%>

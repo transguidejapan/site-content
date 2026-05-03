@@ -21,7 +21,7 @@ actions:
     cancelable: false
     confirm:
       title: Submit content for review?
-      message: This will open or update a pull request from main into live.
+      message: This will open or update a pull request from edit into main.
       button: Submit
 
 content:

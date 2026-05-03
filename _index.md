@@ -1,5 +1,5 @@
 ---
-date: "2025-03-02T17:42:41+09:00"
+date: '2025-03-02T17:42:41+09:00'
 draft: false
 title: Home
 type: default
@@ -8,10 +8,10 @@ type: default
 ![](/images/banner.jpg)
 
 ## About
-**transguide.jp** is an effort to gather resources for the community and present it in an easily-accessible manner for both native Japanese residents, as well as immigrants from around the world and those who may be interested in living in Japan. We will attempt to keep this page up-to-date over time and accept user suggestions and feedback through our email: [transguidejapan@gmail.com](mailto:transguidejapan@gmail.com).
 
-## Links
-{{< cards >}}
-    {{< card link="/docs" title="Resources" icon="bookmark" >}}
-    {{< card link="/blog" title="Blog" icon="newspaper" >}}
-{{< /cards >}}
+**transguide.jp** is an effort to gather resources for the community and present
+it in an easily-accessible manner for both native Japanese residents, as well as
+immigrants from around the world and those who may be interested in living in
+Japan. We will attempt to keep this page up-to-date over time and accept user
+suggestions and feedback through our email:
+[transguidejapan@gmail.com](mailto:transguidejapan@gmail.com).
